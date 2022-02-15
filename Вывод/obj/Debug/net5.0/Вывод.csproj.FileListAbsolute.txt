@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\Вывод.exe
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\Вывод.deps.json
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\Вывод.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\Вывод.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\Вывод.dll
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\ref\Вывод.dll
+D:\проекти VS\Qbit_2darr\Вывод\bin\Debug\net5.0\Вывод.pdb
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.dll
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\ref\Вывод.dll
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.pdb
+D:\проекти VS\Qbit_2darr\Вывод\obj\Debug\net5.0\Вывод.genruntimeconfig.cache

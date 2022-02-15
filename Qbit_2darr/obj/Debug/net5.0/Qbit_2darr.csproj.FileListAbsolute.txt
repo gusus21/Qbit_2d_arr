@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\Qbit_2darr.exe
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\Qbit_2darr.deps.json
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\Qbit_2darr.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\Qbit_2darr.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\Qbit_2darr.dll
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\ref\Qbit_2darr.dll
+D:\проекти VS\Qbit_2darr\Qbit_2darr\bin\Debug\net5.0\Qbit_2darr.pdb
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.dll
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\ref\Qbit_2darr.dll
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.pdb
+D:\проекти VS\Qbit_2darr\Qbit_2darr\obj\Debug\net5.0\Qbit_2darr.genruntimeconfig.cache
