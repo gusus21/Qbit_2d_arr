@@ -1,0 +1,15 @@
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\Поменять_местам_2_строки.exe
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\Поменять_местам_2_строки.deps.json
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\Поменять_местам_2_строки.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\Поменять_местам_2_строки.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\Поменять_местам_2_строки.dll
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\ref\Поменять_местам_2_строки.dll
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\bin\Debug\net5.0\Поменять_местам_2_строки.pdb
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.dll
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\ref\Поменять_местам_2_строки.dll
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.pdb
+D:\проекти VS\Qbit_2darr\Поменять_местам_2_строки\obj\Debug\net5.0\Поменять_местам_2_строки.genruntimeconfig.cache

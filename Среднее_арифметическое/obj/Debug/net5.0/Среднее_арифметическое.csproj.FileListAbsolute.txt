@@ -1,0 +1,15 @@
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\Среднее_арифметическое.exe
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\Среднее_арифметическое.deps.json
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\Среднее_арифметическое.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\Среднее_арифметическое.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\Среднее_арифметическое.dll
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\ref\Среднее_арифметическое.dll
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\bin\Debug\net5.0\Среднее_арифметическое.pdb
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.dll
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\ref\Среднее_арифметическое.dll
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.pdb
+D:\проекти VS\Qbit_2darr\Среднее_арифметическое\obj\Debug\net5.0\Среднее_арифметическое.genruntimeconfig.cache

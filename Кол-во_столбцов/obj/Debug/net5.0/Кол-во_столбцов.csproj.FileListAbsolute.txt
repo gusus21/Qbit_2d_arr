@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\Кол-во_столбцов.exe
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\Кол-во_столбцов.deps.json
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\Кол-во_столбцов.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\Кол-во_столбцов.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\Кол-во_столбцов.dll
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\ref\Кол-во_столбцов.dll
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\bin\Debug\net5.0\Кол-во_столбцов.pdb
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.dll
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\ref\Кол-во_столбцов.dll
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.pdb
+D:\проекти VS\Qbit_2darr\Кол-во_столбцов\obj\Debug\net5.0\Кол-во_столбцов.genruntimeconfig.cache

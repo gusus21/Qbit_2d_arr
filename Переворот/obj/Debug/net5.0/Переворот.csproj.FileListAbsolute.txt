@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\Переворот.exe
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\Переворот.deps.json
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\Переворот.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\Переворот.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\Переворот.dll
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\ref\Переворот.dll
+D:\проекти VS\Qbit_2darr\Переворот\bin\Debug\net5.0\Переворот.pdb
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.dll
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\ref\Переворот.dll
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.pdb
+D:\проекти VS\Qbit_2darr\Переворот\obj\Debug\net5.0\Переворот.genruntimeconfig.cache

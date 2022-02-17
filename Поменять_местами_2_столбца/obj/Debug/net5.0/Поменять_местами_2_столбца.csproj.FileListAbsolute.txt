@@ -1,0 +1,15 @@
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\Поменять_местами_2_столбца.exe
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\Поменять_местами_2_столбца.deps.json
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\Поменять_местами_2_столбца.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\Поменять_местами_2_столбца.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\Поменять_местами_2_столбца.dll
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\ref\Поменять_местами_2_столбца.dll
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\bin\Debug\net5.0\Поменять_местами_2_столбца.pdb
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.dll
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\ref\Поменять_местами_2_столбца.dll
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.pdb
+D:\проекти VS\Qbit_2darr\Поменять_местами_2_столбца\obj\Debug\net5.0\Поменять_местами_2_столбца.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\Половина.exe
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\Половина.deps.json
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\Половина.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\Половина.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\Половина.dll
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\ref\Половина.dll
+D:\проекти VS\Qbit_2darr\Половина\bin\Debug\net5.0\Половина.pdb
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.dll
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\ref\Половина.dll
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.pdb
+D:\проекти VS\Qbit_2darr\Половина\obj\Debug\net5.0\Половина.genruntimeconfig.cache

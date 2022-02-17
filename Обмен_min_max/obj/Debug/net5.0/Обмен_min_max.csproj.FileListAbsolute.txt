@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\Обмен_min_max.exe
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\Обмен_min_max.deps.json
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\Обмен_min_max.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\Обмен_min_max.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\Обмен_min_max.dll
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\ref\Обмен_min_max.dll
+D:\проекти VS\Qbit_2darr\Обмен_min_max\bin\Debug\net5.0\Обмен_min_max.pdb
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.dll
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\ref\Обмен_min_max.dll
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.pdb
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.genruntimeconfig.cache
+D:\проекти VS\Qbit_2darr\Обмен_min_max\obj\Debug\net5.0\Обмен_min_max.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\обмен_min_max_строки.exe
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\обмен_min_max_строки.deps.json
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\обмен_min_max_строки.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\обмен_min_max_строки.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\обмен_min_max_строки.dll
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\ref\обмен_min_max_строки.dll
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\bin\Debug\net5.0\обмен_min_max_строки.pdb
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.dll
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\ref\обмен_min_max_строки.dll
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.pdb
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.genruntimeconfig.cache
