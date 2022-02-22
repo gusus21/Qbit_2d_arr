@@ -26,17 +26,7 @@ namespace Кол_во_столбцов
             }
             return array;
         }
-        //static void Print(int[,] array)
-        //{
-        //    for (int i = 0; i < array.GetLength(0); i++)
-        //    {
-        //        for (int j = 0; j < array.GetLength(1); j++)
-        //        {
-        //            Console.Write(array[i, j] + " ");
-        //        }
-        //        Console.WriteLine();
-        //    }
-        //}
+        
         static void EvenAndOdd(int[,] array)
         {
             int allEv = 0;
@@ -51,7 +41,7 @@ namespace Кол_во_столбцов
                     else
                         odd++;
                 }
-                if (ev >= odd)
+                if (ev > odd)
                 {
                     allEv++;
                 }

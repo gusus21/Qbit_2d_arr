@@ -61,7 +61,7 @@ namespace ConsoleApp1
             {
                 for (int i = 0; i < mass.GetLength(0); i++)
                 {
-                    if (mass[i, j] > max)
+                    if (mass[i, j] >= max)
                     {
                         max = mass[i, j];
                         index = j;

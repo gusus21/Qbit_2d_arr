@@ -17,11 +17,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Обмен_min_max", "Об�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "обмен_min_max_строки", "обмен_min_max_строки\обмен_min_max_строки.csproj", "{AC5D2D23-309F-43C5-9C88-79460B166E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Переворот", "Переворот\Переворот.csproj", "{C9AE99EB-2A38-4939-925F-8AFCFDA37843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Переворот", "Переворот\Переворот.csproj", "{C9AE99EB-2A38-4939-925F-8AFCFDA37843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поменять_местам_2_строки", "Поменять_местам_2_строки\Поменять_местам_2_строки.csproj", "{00C7A30F-2165-41E2-8A5C-4881C063C4B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Поменять_местам_2_строки", "Поменять_местам_2_строки\Поменять_местам_2_строки.csproj", "{00C7A30F-2165-41E2-8A5C-4881C063C4B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поменять_местами_2_столбца", "Поменять_местами_2_столбца\Поменять_местами_2_столбца.csproj", "{0C432E17-B069-4947-BED8-FDF7598397C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Поменять_местами_2_столбца", "Поменять_местами_2_столбца\Поменять_местами_2_столбца.csproj", "{0C432E17-B069-4947-BED8-FDF7598397C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Минимум_по_строкам", "Минимум_по_строкам\Минимум_по_строкам.csproj", "{DE8C8C49-5A9A-4925-942A-83938A514361}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сумма_максимум_минимум", "Сумма_максимум_минимум\Сумма_максимум_минимум.csproj", "{34E33882-BCBD-473E-B8AF-9192E266E9C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Подсчёты_в_столбцах", "Подсчёты_в_столбцах\Подсчёты_в_столбцах.csproj", "{D33A32CF-C359-40A7-9A1C-17640CF4892D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Кол-во_строк", "Кол-во_строк\Кол-во_строк.csproj", "{19DC5412-2A9A-496F-A4C5-BB74520996D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сортировка_периметра", "Сортировка_периметра\Сортировка_периметра.csproj", "{295512B5-7727-40AD-8706-3515E691C3EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка_столбцов", "Сортировка_столбцов\Сортировка_столбцов.csproj", "{6C8E16DF-0037-4083-8276-88B8D107F9A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +81,30 @@ Global
 		{0C432E17-B069-4947-BED8-FDF7598397C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C432E17-B069-4947-BED8-FDF7598397C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C432E17-B069-4947-BED8-FDF7598397C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8C8C49-5A9A-4925-942A-83938A514361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8C8C49-5A9A-4925-942A-83938A514361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8C8C49-5A9A-4925-942A-83938A514361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8C8C49-5A9A-4925-942A-83938A514361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E33882-BCBD-473E-B8AF-9192E266E9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E33882-BCBD-473E-B8AF-9192E266E9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E33882-BCBD-473E-B8AF-9192E266E9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E33882-BCBD-473E-B8AF-9192E266E9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33A32CF-C359-40A7-9A1C-17640CF4892D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33A32CF-C359-40A7-9A1C-17640CF4892D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33A32CF-C359-40A7-9A1C-17640CF4892D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33A32CF-C359-40A7-9A1C-17640CF4892D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DC5412-2A9A-496F-A4C5-BB74520996D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DC5412-2A9A-496F-A4C5-BB74520996D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DC5412-2A9A-496F-A4C5-BB74520996D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DC5412-2A9A-496F-A4C5-BB74520996D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295512B5-7727-40AD-8706-3515E691C3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295512B5-7727-40AD-8706-3515E691C3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295512B5-7727-40AD-8706-3515E691C3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295512B5-7727-40AD-8706-3515E691C3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8E16DF-0037-4083-8276-88B8D107F9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8E16DF-0037-4083-8276-88B8D107F9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8E16DF-0037-4083-8276-88B8D107F9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8E16DF-0037-4083-8276-88B8D107F9A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

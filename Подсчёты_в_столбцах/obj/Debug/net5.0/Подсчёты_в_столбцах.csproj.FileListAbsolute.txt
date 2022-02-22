@@ -1,0 +1,15 @@
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\Подсчёты_в_столбцах.exe
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\Подсчёты_в_столбцах.deps.json
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\Подсчёты_в_столбцах.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\Подсчёты_в_столбцах.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\Подсчёты_в_столбцах.dll
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\ref\Подсчёты_в_столбцах.dll
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\bin\Debug\net5.0\Подсчёты_в_столбцах.pdb
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.dll
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\ref\Подсчёты_в_столбцах.dll
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.pdb
+D:\проекти VS\Qbit_2darr\Подсчёты_в_столбцах\obj\Debug\net5.0\Подсчёты_в_столбцах.genruntimeconfig.cache

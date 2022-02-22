@@ -1,0 +1,15 @@
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\Минимум_по_строкам.exe
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\Минимум_по_строкам.deps.json
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\Минимум_по_строкам.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\Минимум_по_строкам.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\Минимум_по_строкам.dll
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\ref\Минимум_по_строкам.dll
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\bin\Debug\net5.0\Минимум_по_строкам.pdb
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.dll
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\ref\Минимум_по_строкам.dll
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.pdb
+D:\проекти VS\Qbit_2darr\Минимум_по_строкам\obj\Debug\net5.0\Минимум_по_строкам.genruntimeconfig.cache

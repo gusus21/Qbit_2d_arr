@@ -59,9 +59,10 @@ namespace ConsoleApp1
             int index = 0;
             for (int i = 0; i < mass.GetLength(0); i++)
             {
+                
                 for (int j = 0; j < mass.GetLength(1); j++)
                 {
-                    if (mass[i, j] > max)
+                    if (mass[i, j] >= max)
                     {
                         max = mass[i, j];
                         index = i;
@@ -76,6 +77,7 @@ namespace ConsoleApp1
             int index = 0;
             for (int i = 0; i < mass.GetLength(0); i++)
             {
+                
                 for (int j = 0; j < mass.GetLength(1); j++)
                 {
                     if (mass[i, j] < min)

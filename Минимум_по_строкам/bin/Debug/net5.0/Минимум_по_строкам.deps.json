@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Минимум_по_строкам/1.0.0": {
+        "runtime": {
+          "Минимум_по_строкам.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Минимум_по_строкам/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

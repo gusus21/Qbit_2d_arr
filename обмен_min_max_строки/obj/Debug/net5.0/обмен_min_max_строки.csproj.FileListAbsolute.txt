@@ -13,3 +13,4 @@ D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0
 D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\ref\обмен_min_max_строки.dll
 D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.pdb
 D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.genruntimeconfig.cache
+D:\проекти VS\Qbit_2darr\обмен_min_max_строки\obj\Debug\net5.0\обмен_min_max_строки.csproj.AssemblyReference.cache

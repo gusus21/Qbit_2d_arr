@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\Сумма_максимум_минимум.exe
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\Сумма_максимум_минимум.deps.json
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\Сумма_максимум_минимум.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\Сумма_максимум_минимум.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\Сумма_максимум_минимум.dll
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\ref\Сумма_максимум_минимум.dll
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\bin\Debug\net5.0\Сумма_максимум_минимум.pdb
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.dll
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\ref\Сумма_максимум_минимум.dll
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.pdb
+D:\проекти VS\Qbit_2darr\Сумма_максимум_минимум\obj\Debug\net5.0\Сумма_максимум_минимум.genruntimeconfig.cache

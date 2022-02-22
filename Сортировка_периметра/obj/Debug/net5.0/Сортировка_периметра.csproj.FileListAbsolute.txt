@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\Сортировка_периметра.exe
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\Сортировка_периметра.deps.json
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\Сортировка_периметра.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\Сортировка_периметра.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\Сортировка_периметра.dll
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\ref\Сортировка_периметра.dll
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\bin\Debug\net5.0\Сортировка_периметра.pdb
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.dll
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\ref\Сортировка_периметра.dll
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.pdb
+D:\проекти VS\Qbit_2darr\Сортировка_периметра\obj\Debug\net5.0\Сортировка_периметра.genruntimeconfig.cache

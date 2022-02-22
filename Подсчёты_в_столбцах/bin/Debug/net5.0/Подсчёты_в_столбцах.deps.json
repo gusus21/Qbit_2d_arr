@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Подсчёты_в_столбцах/1.0.0": {
+        "runtime": {
+          "Подсчёты_в_столбцах.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Подсчёты_в_столбцах/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

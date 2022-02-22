@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace rand
+namespace Поменять_местами_2_строки
 {
     class Program
     {

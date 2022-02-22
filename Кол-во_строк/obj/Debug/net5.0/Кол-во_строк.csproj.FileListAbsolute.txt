@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\Кол-во_строк.exe
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\Кол-во_строк.deps.json
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\Кол-во_строк.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\Кол-во_строк.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\Кол-во_строк.dll
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\ref\Кол-во_строк.dll
+D:\проекти VS\Qbit_2darr\Кол-во_строк\bin\Debug\net5.0\Кол-во_строк.pdb
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.dll
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\ref\Кол-во_строк.dll
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.pdb
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.genruntimeconfig.cache
+D:\проекти VS\Qbit_2darr\Кол-во_строк\obj\Debug\net5.0\Кол-во_строк.csproj.AssemblyReference.cache

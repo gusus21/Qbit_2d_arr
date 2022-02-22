@@ -1,0 +1,16 @@
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\Сортировка_столбцов.exe
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\Сортировка_столбцов.deps.json
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\Сортировка_столбцов.runtimeconfig.json
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\Сортировка_столбцов.runtimeconfig.dev.json
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\Сортировка_столбцов.dll
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\ref\Сортировка_столбцов.dll
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\bin\Debug\net5.0\Сортировка_столбцов.pdb
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.csproj.AssemblyReference.cache
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.AssemblyInfoInputs.cache
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.AssemblyInfo.cs
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.csproj.CoreCompileInputs.cache
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.dll
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\ref\Сортировка_столбцов.dll
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.pdb
+D:\проекти VS\Qbit_2darr\Сортировка_столбцов\obj\Debug\net5.0\Сортировка_столбцов.genruntimeconfig.cache
